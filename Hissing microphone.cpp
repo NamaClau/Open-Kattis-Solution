@@ -18,15 +18,7 @@ int main()
 		}
 	}
 	
-	if(s>=1)
-	{
-		printf("hiss\n");
-	}
-	else
-	{
-		printf("no hiss\n");
-	}
-	
+	(s>=1) ? printf("hiss\n") : printf("no hiss\n");
 	
     return 0;
 }
