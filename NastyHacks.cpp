@@ -2,8 +2,7 @@
 
 int main()
 {
-	//long long int r[10000],e[10000],c[10000];  <--pakai ini bisa submit
-	long long int r[10^6],e[10^6],c[10^6];
+	long long int r[10000],e[10000],c[10000];
 	int banyak;
 	int i=0;
 	
